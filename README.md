@@ -4,6 +4,7 @@
 
 ### Documentação da API: https://documenter.getpostman.com/view/28312979/2s9YyvCLpT
 ### Deploy: https://labeddit-backend-7pz2.onrender.com
+### Link do frontend: https://github.com/eesfernandes/labeddit-backend
 
 # Tecnologias
 - NodeJS
